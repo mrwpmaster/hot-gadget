@@ -26,12 +26,3 @@
     border-bottom: 10px solid #ffc220;
     border-radius: 10px;
 }
-.card-img, .card-img-bottom, .card-img-top{
-    width:100px;
-}
-.row img{
-    width: 100px;
-}
-.row img:(3rd child){
-    width: 600px;
-}
