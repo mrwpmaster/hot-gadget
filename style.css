@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.bgcolor{
+    background-color: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+.small{
+    color: #ffc220;
+    font-size: 20px;
+    
+}
+
